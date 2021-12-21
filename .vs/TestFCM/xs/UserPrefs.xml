@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{DCC4C843-3834-49D1-A068-F95F778EC8C3}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestFCM.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestFCM.Android/NotificationHelper.cs">
+    <Files>
+      <File FileName="TestFCM.Android/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="TestFCM.Android/MyFirebaseIIDService.cs" />
+      <File FileName="TestFCM.Android/MyFirebaseMessagingService.cs" />
+      <File FileName="TestFCM.Android/NotificationHelper.cs" Line="12" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestFCM" expanded="True">
+            <Node name="TestFCM.Android" expanded="True">
+              <Node name="NotificationHelper.cs" selected="True" />
+            </Node>
+            <Node name="TestFCM.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestFCM.Android PreferredExecutionTarget="Android.9DC4C17418003168" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/valerio/Projects/TestFCM/TestFCM.Android/MyFirebaseIIDService.cs" relfile="TestFCM.Android/MyFirebaseIIDService.cs" line="13" column="1" />
+      <Breakpoint file="/Users/valerio/Projects/TestFCM/TestFCM.Android/NotificationHelper.cs" relfile="TestFCM.Android/NotificationHelper.cs" line="29" column="1" />
+      <Breakpoint file="/Users/valerio/Projects/TestFCM/TestFCM.Android/MyFirebaseIIDService.cs" relfile="TestFCM.Android/MyFirebaseIIDService.cs" line="29" column="1" />
+      <Breakpoint file="/Users/valerio/Projects/TestFCM/TestFCM/MainPage.xaml.cs" relfile="TestFCM/MainPage.xaml.cs" line="20" column="1" />
+      <Breakpoint file="/Users/valerio/Projects/TestFCM/TestFCM.Android/MainActivity.cs" relfile="TestFCM.Android/MainActivity.cs" line="27" column="1" />
+      <Breakpoint file="/Users/valerio/Projects/TestFCM/TestFCM.Android/MainActivity.cs" relfile="TestFCM.Android/MainActivity.cs" line="51" column="1" />
+      <Breakpoint file="/Users/valerio/Projects/TestFCM/TestFCM.Android/MyFirebaseMessagingService.cs" relfile="TestFCM.Android/MyFirebaseMessagingService.cs" line="14" column="1" />
+      <Breakpoint file="/Users/valerio/Projects/TestFCM/TestFCM.Android/NotificationHelper.cs" relfile="TestFCM.Android/NotificationHelper.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
